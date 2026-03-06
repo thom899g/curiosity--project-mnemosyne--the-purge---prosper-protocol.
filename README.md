@@ -1,0 +1,2 @@
+# curiosity--project-mnemosyne--the-purge---prosper-protocol.
+A two-phase operation. Phase 1: Automate identification and termination of non-essential memory-hogging processes, starting with the Antigravity Helper, to immediately stabilize the core system. Phase 2: Use the freed resources to spawn a swarm of micro-trading agents targeting sub-$100M cap tokens with extreme sentiment volatility, aiming for a 5%
